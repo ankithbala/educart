@@ -1,5 +1,5 @@
 # educart
-forumInsert.php to insert data from respective textbox's from SeconActivity.java
+forumInsert.php to insert data from respective textbox's from SecondActivity.java
 
 getData.php to display all info abt user in recyclerview via FourthActivity.java
 
