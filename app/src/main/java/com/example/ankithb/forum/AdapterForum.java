@@ -49,7 +49,7 @@ public class AdapterForum extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         myHolder.t2.setTextColor(ContextCompat.getColor(context, R.color.colorAccent));
 
         // load image into imageview using glide
-        Glide.with(context).load("http://192.168.43.44:8011/images/pic" + current.f1+".jpg")
+        Glide.with(context).load("http://educationforfun.in/Ankith/pic" + current.f1+".jpg")
                 .placeholder(R.mipmap.ic_launcher)
                 .error(R.mipmap.ic_launcher)
                 .into(myHolder.iv1);
